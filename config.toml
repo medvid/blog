@@ -1,3 +1,4 @@
 baseURL = "https://medvid.tk/"
 languageCode = "en-us"
-title = "Volodymyr Medvid | Blog"
+title = "Volodymyr Medvid | Blog
+theme = "hugo-xmin"
