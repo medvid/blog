@@ -28,4 +28,4 @@ theme = "hugo-xmin"
     url = "/index.xml"
 
 [params]
-    footer = "&copy; [Volodymyr Medvid](https://medvid.tk) 2017 | [Github](https://github.com/medvid) | [Facebook](https://www.facebook.com/vmmedvid)"
+    footer = "&copy; [Volodymyr Medvid](https://medvid.tk) 2015-2017 | [Github](https://github.com/medvid) | [Facebook](https://www.facebook.com/vmmedvid)"
