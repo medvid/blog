@@ -14,7 +14,7 @@ Articles: <https://getpocket.com/@vmm>
 
 Books: <https://goodreads.com/medvid>
 
-Music: <https://medvid.github.io/music>
+Music: <https://medvid.tk/music>
 
 ### Contact
 
