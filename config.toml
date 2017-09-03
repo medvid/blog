@@ -24,7 +24,7 @@ theme = "hugo-xmin"
     url = "/note/"
     weight = 4
 [[menu.main]]
-    name = "Subscribe"
+    name = "RSS"
     url = "/index.xml"
 
 [params]
