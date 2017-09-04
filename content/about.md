@@ -10,12 +10,12 @@ GitHub: <https://github.com/medvid>
 
 Facebook: <https://www.facebook.com/vmmedvid>
 
-Articles: <https://getpocket.com/@vmm>
+Recommended articles: <https://getpocket.com/@vmm>
 
-Books: <https://goodreads.com/medvid>
+Recommended books: <https://goodreads.com/medvid>
 
-Music: <https://medvid.tk/music>
+Recommended music: <https://medvid.tk/music>
 
 ### Contact
 
-<vmedvid@riseup.net>
+vmedvid at riseup.net
