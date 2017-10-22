@@ -1,6 +1,6 @@
 ---
 title: Blog
-timezone: UTC
+timezone: Europe/Kiev
 collections:
   posts:
     title: Posts
