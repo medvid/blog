@@ -1,8 +1,8 @@
 ---
 title: Funny busybox unicode text
-date: 2015-02-02
+date: 2015-02-02 00:00:00 Z
 aliases:
-    - /busybox/fun/2015/02/02/busybox/
+- "/busybox/fun/2015/02/02/busybox/"
 ---
 
 While trying to find out why busybox testsuite fails

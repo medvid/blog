@@ -1,6 +1,6 @@
 ---
-title: "Music"
-date: 2017-09-03T20:11:12+03:00
+title: Music
+date: 2017-09-03 17:11:12 Z
 ---
 
 Listening journal: <https://medvid.tk/lastfm>

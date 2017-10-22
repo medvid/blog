@@ -1,8 +1,8 @@
 ---
 title: Installing Exherbo on VirtualBox
-date: 2015-03-01
+date: 2015-03-01 00:00:00 Z
 aliases:
-    - /exherbo/2015/03/01/vbox/
+- "/exherbo/2015/03/01/vbox/"
 ---
 
 * To install Exherbo system on VirtualBox, you need existing VirtualBox Linux machine with the same architecture (x86_86 or i686).

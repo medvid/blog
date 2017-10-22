@@ -1,6 +1,6 @@
 ---
 title: Not-so-awesome list of .NET resources
-date: 2015-02-25
+date: 2015-02-25 00:00:00 Z
 ---
 
 ## Microsoft resources

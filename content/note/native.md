@@ -1,6 +1,6 @@
 ---
 title: How to see which flags -march=native will activate
-date: 2015-02-01
+date: 2015-02-01 00:00:00 Z
 ---
 
 * [stackoverflow][so]

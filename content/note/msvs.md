@@ -1,6 +1,6 @@
 ---
 title: Microsoft Visual Studio configuration
-date: 2015-02-02
+date: 2015-02-02 00:00:00 Z
 ---
 
 * [Disable file preview in VS2012](http://stackoverflow.com/questions/10952185/disable-file-preview-in-vs2012)

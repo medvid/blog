@@ -1,6 +1,6 @@
 ---
 title: git
-date: 2015-05-26
+date: 2015-05-26 00:00:00 Z
 ---
 
 * Fetch bare repository

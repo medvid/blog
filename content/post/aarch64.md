@@ -1,8 +1,8 @@
 ---
 title: Bootstrapping exherbo on Pinebook
-date: 2017-07-09
+date: 2017-07-09 00:00:00 Z
 aliases:
-    - /exherbo/2017/07/09/aarch64/
+- "/exherbo/2017/07/09/aarch64/"
 ---
 
 Based on https://exherbo.org/docs/bootstrapping.html

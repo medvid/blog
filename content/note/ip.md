@@ -1,6 +1,6 @@
 ---
 title: network forwarding
-date: 2015-11-21
+date: 2015-11-21 00:00:00 Z
 ---
 
 Forward external network interface (usb0) to internal (eth0):
