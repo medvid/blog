@@ -1,6 +1,6 @@
 ---
 title: Patching interpreter for third-party elf binaries
-date: 2015-11-08 00:00:00 Z
+date: 2015-11-08
 ---
 
     cave resolve dev-util/patchelf::heirecka

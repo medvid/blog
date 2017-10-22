@@ -1,6 +1,6 @@
 ---
 title: Running Void Linux with an old kernel
-date: 2017-08-17 00:00:00 Z
+date: 2017-08-17
 ---
 
 ## Goal

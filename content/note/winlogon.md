@@ -1,6 +1,6 @@
 ---
 title: Automatically select default account on Windows 7 logon
-date: 2015-03-17 00:00:00 Z
+date: 2015-03-17
 ---
 
     reg add "HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon" /v DefaultUserName /t REG_SZ /d vmed

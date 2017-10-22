@@ -1,8 +1,8 @@
 ---
 title: Setting up pbin repository for paludis
-date: 2015-01-31 00:00:00 Z
+date: 2015-01-31
 aliases:
-- "/exherbo/2015/01/31/pbin/"
+    - /exherbo/2015/01/31/pbin/
 ---
 
 ## Overview

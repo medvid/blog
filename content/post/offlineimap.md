@@ -1,8 +1,8 @@
 ---
 title: Sync Evolution mail with offlineimap
-date: 2015-02-08 00:00:00 Z
+date: 2015-02-08
 aliases:
-- "/linux/2015/02/08/offlineimap/"
+    - /linux/2015/02/08/offlineimap/
 ---
 
 This is 2015 version of François Michonneau's post
