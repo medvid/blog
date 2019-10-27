@@ -12,20 +12,8 @@ theme = "hugo-xmin"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
-    name = "Blog"
-    url = "/post/"
-    weight = 3
-[[menu.main]]
-    name = "Notes"
-    url = "/note/"
-    weight = 4
-[[menu.main]]
     name = "RSS"
     url = "/index.xml"
 
 [params]
-    footer = "&copy; [Volodymyr Medvid](https://medvid.tk) 2015-2017 | [Github](https://github.com/medvid) | [Facebook](https://www.facebook.com/vmmedvid)"
+    footer = "&copy; [Volodymyr Medvid](https://medvid.tk) 2015-2019"
